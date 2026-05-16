@@ -1,0 +1,320 @@
+[
+  {
+    "appversion": "14",
+    "version": "13f88f47c46ca002c73bd59f257366c85ff7fb5b",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "14_fingerprint.json"
+  },
+  {
+    "appversion": "15",
+    "version": "6a8e9d64ad0aa77d9d2b4e0fe374043e36424938",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "15_fingerprint.json"
+  },
+  {
+    "appversion": "16",
+    "version": "31dcff3960983f8f69881ad00723bfc859074005",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "16_fingerprint.json"
+  },
+  {
+    "appversion": "17",
+    "version": "440eacd5c203aec0180236bc2d063ee5e8c437d0",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "17_fingerprint.json"
+  },
+  {
+    "appversion": "19",
+    "version": "586c0edf0fdddfeca3f612e253417381ff108f0b",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "19_fingerprint.json"
+  },
+  {
+    "appversion": "20",
+    "version": "b32599953c866021ef3b3e0fdf57719cdfa29548",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "20_fingerprint.json"
+  },
+  {
+    "appversion": "21",
+    "version": "de9123e6a9362d4de35b6ba7950d1d8bc21df7c1",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "21_fingerprint.json"
+  },
+  {
+    "appversion": "22",
+    "version": "5fa6fba055874a8181601a5f5642e7c3b9d41f53",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "22_fingerprint.json"
+  },
+  {
+    "appversion": "23",
+    "version": "e3f6c082fb2ba3e210f8cd064939925d01c8f90b",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "23_fingerprint.json"
+  },
+  {
+    "appversion": "24",
+    "version": "4268bda583878c7ccce299c2bab8ba2568e61de8",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "24_fingerprint.json"
+  },
+  {
+    "appversion": "25",
+    "version": "2a53163f7b99958d92aa303dab0d30b60d79728a",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "25_fingerprint.json"
+  },
+  {
+    "appversion": "26",
+    "version": "5314bce1fc60e7de5f449d4799c518c451b5b9e6",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "26_fingerprint.json"
+  },
+  {
+    "appversion": "27",
+    "version": "e74348d65faf6a55514a99f3002f9ead5599ec26",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "27_fingerprint.json"
+  },
+  {
+    "appversion": "28",
+    "version": "c33a3b511b50de0292708b790e3890fc657724ea",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "28_fingerprint.json"
+  },
+  {
+    "appversion": "29",
+    "version": "b10cf2ec007e30f18d7c6b84c8c4186b79dbaf6a",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "29_fingerprint.json"
+  },
+  {
+    "appversion": "30",
+    "version": "13900fa43040dd22fd7de222c0fe16f9d2739d0c",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "30_fingerprint.json"
+  },
+  {
+    "appversion": "31",
+    "version": "f036872c9adb6a2c7121a165718742e7bed0aa01",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "31_fingerprint.json"
+  },
+  {
+    "appversion": "32",
+    "version": "a241cb6a716506dfc59517a75e7236ce93d56206",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "32_fingerprint.json"
+  },
+  {
+    "appversion": "33",
+    "version": "ad2a2d43cf1a40c5bea08c8577672d72f2c3c26e",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "33_fingerprint.json"
+  },
+  {
+    "appversion": "34",
+    "version": "364ddc048d815ac2291783ce55afdc7be96fd8cb",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "34_fingerprint.json"
+  },
+  {
+    "appversion": "35",
+    "version": "eb426069dfae9f7a3921e45408e992e09aa15f5c",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "35_fingerprint.json"
+  },
+  {
+    "appversion": "36",
+    "version": "f17809f49a1719ab9b445760d78fda100d4abfbe",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "36_fingerprint.json"
+  },
+  {
+    "appversion": "37",
+    "version": "9edadc92b5bd7f1c8e45f87db87cd24d42632b5a",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "37_fingerprint.json"
+  },
+  {
+    "appversion": "38",
+    "version": "e4d04b590149186c2e0d34a43461ccda67469b89",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "38_fingerprint.json"
+  },
+  {
+    "appversion": "39",
+    "version": "5b7d491f80d8ca880d1c6bc33cb07adac304539e",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "39_fingerprint.json"
+  },
+  {
+    "appversion": "40",
+    "version": "319de068932c9ebbb0c289a8bbf9bc914a9d14b7",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "40_fingerprint.json"
+  },
+  {
+    "appversion": "41",
+    "version": "1d7e9d284c499ae22f2c094c76b3167029579a43",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "41_fingerprint.json"
+  },
+  {
+    "appversion": "42",
+    "version": "b40132f75f694e7697e52051d4a08cbf61e6b0ee",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "42_fingerprint.json"
+  },
+  {
+    "appversion": "43",
+    "version": "05b37354fe073661aef9de6093374130ef9c1bce",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "43_fingerprint.json"
+  },
+  {
+    "appversion": "44",
+    "version": "6a43d373e045fb70999e56f12efb1b0e7e0d9cbc",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "44_fingerprint.json"
+  },
+  {
+    "appversion": "45",
+    "version": "baaacbd30ea5f1ba7d0778571069da92e327e978",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "45_fingerprint.json"
+  },
+  {
+    "appversion": "46",
+    "version": "26d9b4db26f9b827da2ddf162779d6d96c18ee36",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "46_fingerprint.json"
+  },
+  {
+    "appversion": "47",
+    "version": "db748fbfc2deb455586fc0ae3a7eea562eb4c0c9",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "47_fingerprint.json"
+  },
+  {
+    "appversion": "48",
+    "version": "b7cad8a82b5d3de378a8ba4ff137f59c23f89629",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "48_fingerprint.json"
+  },
+  {
+    "appversion": "49",
+    "version": "f0c9decb75c0352b3e08315c3b68b0190a01043a",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "49_fingerprint.json"
+  },
+  {
+    "appversion": "50",
+    "version": "9ef677cc9dc93785cbde58aa09936da96932795c",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "50_fingerprint.json"
+  },
+  {
+    "appversion": "51",
+    "version": "70805f4629bd46374db1f25b5d9bf3ffa73618eb",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "51_fingerprint.json"
+  },
+  {
+    "appversion": "52",
+    "version": "13f615aa14929c181163371554be6a14fe3474f1",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "52_fingerprint.json"
+  },
+  {
+    "appversion": "53",
+    "version": "3c889be5580936e793db41d3c8c72aa78e62246f",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "53_fingerprint.json"
+  },
+  {
+    "appversion": "54",
+    "version": "f1c3dfbb75d617973177e56fd46e982dfb467382",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "54_fingerprint.json"
+  },
+  {
+    "appversion": "55",
+    "version": "5a39e71d212e450dd0dc5b58fc8bbbc268f9c65a",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "55_fingerprint.json"
+  },
+  {
+    "appversion": "56",
+    "version": "026b98730aac824ae292238be1176a927e139da8",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "56_fingerprint.json"
+  },
+  {
+    "appversion": "57",
+    "version": "6aedee4f625107e663675308f783e46a5eafbd10",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "57_fingerprint.json"
+  },
+  {
+    "appversion": "58",
+    "version": "4fdac73c9dffdbb464f13793990e40248b4311ce",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "58_fingerprint.json"
+  },
+  {
+    "appversion": "59",
+    "version": "c8c50fd1b7a35f0daaae9d4ce98a3ca9c51842e6",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "59_fingerprint.json"
+  },
+  {
+    "appversion": "60",
+    "version": "f47d0ca7716fec1ed58fb8c6fcfe66e00014f02e",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "60_fingerprint.json"
+  },
+  {
+    "appversion": "61",
+    "version": "8d782e59479e3599d250c75645fc71bc34507f2b",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "61_fingerprint.json"
+  },
+  {
+    "appversion": "62",
+    "version": "3450ea163609c0dc5637c45a3fa15d16f83bda7a",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "62_fingerprint.json"
+  },
+  {
+    "appversion": "63",
+    "version": "c4f71a19bc31cef7b3e90b450e969356946aded7",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "63_fingerprint.json"
+  },
+  {
+    "appversion": "64",
+    "version": "69ff31194cacc873af6b61742ebae972480d3ca4",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "64_fingerprint.json"
+  },
+  {
+    "appversion": "65",
+    "version": "2fe60392bdd4161f37a1a5a7e09a149a89bf1148",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "65_fingerprint.json"
+  },
+  {
+    "appversion": "66",
+    "version": "48699ee25527da4b6e08dd6dd8aa97c56334c545",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "66_fingerprint.json"
+  },
+  {
+    "appversion": "67",
+    "version": "3fa2c8abfca2862323863593ca047a521d690c6e",
+    "server": "https://game-assets.brawlstarsgame.com",
+    "fingerprint_path": "67_fingerprint.json"
+  }
+]
