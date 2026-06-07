@@ -1,6 +1,10 @@
 Strings/
 VersionsData/FingerPrints/.gitkeep
 exports1024/
+exports/
 faces.json
 Binaries/exports
+Binaries/characters
 FacerawData
+VersionsData/CNFPS/sha_versions.json
+VersionsData/CNFPS/tst.py

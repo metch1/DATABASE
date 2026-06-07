@@ -1,0 +1,176 @@
+[
+  {
+    "appversion": "27",
+    "version": "e74348d65faf6a55514a99f3002f9ead5599ec26",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "27_fingerprint.json"
+  },
+  {
+    "appversion": "28",
+    "version": "2168e4a966306dcf4e0312e140f520c95317b40f",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "28_fingerprint.json"
+  },
+  {
+    "appversion": "29",
+    "version": "0a996fafcd60413d913b788daefbbc3de818f46e",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "29_fingerprint.json"
+  },
+  {
+    "appversion": "30",
+    "version": "337b974f2dbc521ab3936bec8a72f49082d772b8",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "30_fingerprint.json"
+  },
+  {
+    "appversion": "32",
+    "version": "09ce82b7675a2b298bac5a8e08c90f84cc7c433e",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "32_fingerprint.json"
+  },
+  {
+    "appversion": "33",
+    "version": "3214f9026360b79947e22a9a39d4f54da7d9a560",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "33_fingerprint.json"
+  },
+  {
+    "appversion": "34",
+    "version": "eb856fc7947b22bf3e85d30d6680c40ca180843a",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "34_fingerprint.json"
+  },
+  {
+    "appversion": "35",
+    "version": "820b5074eb325f4c1bbde73aefaed913c801467d",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "35_fingerprint.json"
+  },
+  {
+    "appversion": "36",
+    "version": "f17809f49a1719ab9b445760d78fda100d4abfbe",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "36_fingerprint.json"
+  },
+  {
+    "appversion": "37",
+    "version": "c6b908f13a0c8d0bb5d5990dd5e4f60292d7f194",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "37_fingerprint.json"
+  },
+  {
+    "appversion": "38",
+    "version": "d495655da4d064993ee3331e769b74bf003990f2",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "38_fingerprint.json"
+  },
+  {
+    "appversion": "39",
+    "version": "5b7d491f80d8ca880d1c6bc33cb07adac304539e",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "39_fingerprint.json"
+  },
+  {
+    "appversion": "40",
+    "version": "319de068932c9ebbb0c289a8bbf9bc914a9d14b7",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "40_fingerprint.json"
+  },
+  {
+    "appversion": "41",
+    "version": "04f97bc81943cc3470b877a4fdf93fe075ca9809",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "41_fingerprint.json"
+  },
+  {
+    "appversion": "43",
+    "version": "23c7c0215462e72cb14e67299bd17d135b9b4b49",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "43_fingerprint.json"
+  },
+  {
+    "appversion": "44",
+    "version": "1590263d94aed1162070a5e1b17790f55fe1fd1f",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "44_fingerprint.json"
+  },
+  {
+    "appversion": "45",
+    "version": "78aeb2ff0a8570f9b7d08b35e4b36638d6603c33",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "45_fingerprint.json"
+  },
+  {
+    "appversion": "46",
+    "version": "ab74c5067a457ef8e3e3361f739dae2fcd755a4c",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "46_fingerprint.json"
+  },
+  {
+    "appversion": "47",
+    "version": "710fa3cda640e171c82d523ba35df04d09f1aa86",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "47_fingerprint.json"
+  },
+  {
+    "appversion": "48",
+    "version": "c003fc6863fc22df330d9ea07b20b3ebd9521d82",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "48_fingerprint.json"
+  },
+  {
+    "appversion": "49",
+    "version": "33a1f5598fe65054c719772f66b584c8f5614f4b",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "49_fingerprint.json"
+  },
+  {
+    "appversion": "52",
+    "version": "6d0f11befebc25f32e736994783320ebbe480c4f",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "52_fingerprint.json"
+  },
+  {
+    "appversion": "53",
+    "version": "ffc46ba55e1a875e91a7665f55562d1ee5711fd9",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "53_fingerprint.json"
+  },
+  {
+    "appversion": "54",
+    "version": "8b2517ba1c6a33e87904db9dbe8390efb457ba06",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "54_fingerprint.json"
+  },
+  {
+    "appversion": "55",
+    "version": "09e0fc76b4d8441dd12757d1bd8ef58e8d84d45c",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "55_fingerprint.json"
+  },
+  {
+    "appversion": "61",
+    "version": "31bdead41692fe7327bf5f0e5611028ae5ecf2a1",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "61_fingerprint.json"
+  },
+  {
+    "appversion": "62",
+    "version": "2b3d50457de4fd608f90f94da226146ebb45b7ff",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "62_fingerprint.json"
+  },
+  {
+    "appversion": "63",
+    "version": "36d801644dc7b38e5486fcae1ff9184f7e1878f3",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "63_fingerprint.json"
+  },
+  {
+    "appversion": "67",
+    "version": "9da8ae1fd6583b24d08810bb87cf07e66eea7402",
+    "server": "https://game-assets.tencent-cloud.com",
+    "fingerprint_path": "67_fingerprint.json"
+  }
+]
